@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00042FC1-08DB-17AA-633E-A6943B285CF8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "kyu",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
